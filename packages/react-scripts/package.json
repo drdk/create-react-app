@@ -1,7 +1,7 @@
 {
   "name": "@dr/react-scripts-tag-admin",
   "version": "0.9.7",
-  "description": "Configuration and scripts for Create React App.",
+  "description": "Custom fork of Create React App customized for the TAG-Admin application.",
   "repository": "facebookincubator/create-react-app",
   "license": "BSD-3-Clause",
   "engines": {
